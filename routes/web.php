@@ -13,7 +13,7 @@
 
 Route::get('/', function () {
     return view('welcome');
-    echo 'ok GIT';
+    echo 'ok GIT test';
 });
 
 Auth::routes();
