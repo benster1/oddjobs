@@ -115,6 +115,7 @@
             <div class="content">
                 <div class="alert alert-info" role="alert">
                   <h3>Welcome to OddJobs "Testing GITHUB"</h3>
+                  <h3>Welcome to OddJobs "Testing GITHUB"</h3>
                   <p>
                       Join us, you can post your offers as a <u><b><i>Recruiter</i></b></u> and apply for any oopening in our website as an <u><b><i>Applicant</i></b></p></u></br>
 
